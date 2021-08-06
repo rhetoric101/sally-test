@@ -9,7 +9,11 @@
   <tbody>
     <tr>
       <td>Column 1</td>
-      <td?Colum 2</td>
+      <td>Column 2</td>
+    </tr>
+    <tr>
+      <td>Column 1</td>
+      <td>Column 2</td>
     </tr>
   </tbody>
  </table>
