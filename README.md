@@ -42,8 +42,10 @@
       <td>
         The `.js` file for the agent must be hosted on a highly available or replicated location, such as a CDN or distributed network. This helps ensure performance is not affected.
 
-        * If you see error messages, add our browser monitoring domains to your [CSP whitelist](#csp-exception).
-        * If you want to use the browser agent to [monitor Salesforce Lightning pages](/docs/csp-v2-monitor-salesforce-lightning-pages), follow the [Salesforce procedures](https://help.salesforce.com/articleView?id=csp_trusted_sites.htm&type=5) to add our  domains to your CSP whitelist.
+        <ul>
+          <li>If you see error messages, add our browser monitoring domains to your [CSP whitelist](#csp-exception)</li>
+          <li> If you want to use the browser agent to [monitor Salesforce Lightning pages](/docs/csp-v2-monitor-salesforce-lightning-pages), follow the [Salesforce procedures](https://help.salesforce.com/articleView?id=csp_trusted_sites.htm&type=5) to add our  domains to your CSP whitelist.</li>
+        </ul>
 
         By hosting the agent, you are responsible for any performance impact on the location where the agent is hosted.
       </td>
