@@ -39,7 +39,7 @@
       </td>
 
       <td>
-        Your app or platform where your site is hosted must meet browser's standard [compatibility requirements](/docs/browser/new-relic-browser/getting-started/compatibility-requirements-new-relic-browser). **Exception:** CSP restrictions prevent you from linking an APM app for browser monitoring.
+        <p>Your app or platform where your site is hosted must meet browser's standard  <a href="https://docs.newrelic.com/docs/browser/new-relic-browser/getting-started/compatibility-requirements-new-relic-browser">compatibility requirements</a>. **Exception:** CSP restrictions prevent you from linking an APM app for browser monitoring.</p>
       </td>
     </tr>
 
@@ -49,7 +49,7 @@
       </td>
 
       <td>
-        You must have a [**Pro+SPA** Browser subscription](https://newrelic.com/browser-monitoring/pricing) for your app.
+        You must have a <a href="https://newrelic.com/browser-monitoring/pricing">Pro+SPA Browser subscription</a> for your app.
       </td>
     </tr>
 
@@ -63,7 +63,7 @@
 
         <ul>
           <li>If you see error messages, add our browser monitoring domains to your [CSP whitelist](#csp-exception)</li>
-          <li> If you want to use the browser agent to [monitor Salesforce Lightning pages](/docs/csp-v2-monitor-salesforce-lightning-pages), follow the [Salesforce procedures](https://help.salesforce.com/articleView?id=csp_trusted_sites.htm&type=5) to add our  domains to your CSP whitelist.</li>
+          <li> If you want to use the browser agent to <a href="https://docs.newrelic.com/docs/csp-v2-monitor-salesforce-lightning-pages">monitor Salesforce Lightning pages</a> follow the <a href="https://help.salesforce.com/articleView?id=csp_trusted_sites.htm&type=5:">Salesforce procedures</a> to add our domains to your CSP whitelist.</li>
         </ul>
 
         <p>By hosting the agent, you are responsible for any performance impact on the location where the agent is hosted.</p>
@@ -76,7 +76,7 @@
       </td>
 
       <td>
-        Your selected app must use the [latest agent version](/docs/release-notes/new-relic-browser-release-notes/browser-agent-release-notes).
+        Your selected app must use the <a href="https://docs.newrelic.com/docs/release-notes/new-relic-browser-release-notes/browser-agent-release-notes">latest agent version</a>.
       </td>
     </tr>
   </tbody>
