@@ -3,6 +3,21 @@
 <table>
   <thead>
     <tr>
+      <th>Heading 1</th>
+      <th>Headng 2</th>
+    </tr>
+  <tbody>
+    <tr>
+      <td>Column 1</td>
+      <td?Colum 2</td>
+    </tr>
+  </tbody>
+ </table>
+ 
+
+<table>
+  <thead>
+    <tr>
       <th>
         CSP and browser agent
       </th>
