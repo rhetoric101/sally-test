@@ -3,7 +3,7 @@
 <table>
   <thead>
     <tr>
-      <th style={{ width: "200px" }}>
+      <th>
         CSP and browser agent
       </th>
 
