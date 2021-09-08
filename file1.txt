@@ -3,3 +3,5 @@ This is the initial file.
 Here is a change to merge into branch 3 from main.
 
 Here is another line to test commits.
+
+Here is yet another change to test verified commits.
