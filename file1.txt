@@ -9,3 +9,5 @@ Here is yet another change to test verified commits.
 Here is a change that I'll test using GitHub Desktop commit.
 
 I just added another GPG key to test the verification commit.
+
+Here is a second test after adding the GPG key for my work email.
